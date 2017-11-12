@@ -1,0 +1,11 @@
+ShunitRoth:homework shunitroth$ ruby hello_world.rb
+Hello, World!
+“Hello, The LAB!”
+
+true
+true
+false
+false
+
+puts [1 ,2 ,3] puts it to the screen for the user.
+p [1, 2, 3} shows the developer the information with more details.
